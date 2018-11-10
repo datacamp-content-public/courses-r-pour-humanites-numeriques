@@ -72,7 +72,7 @@ key: "8ec911261c"
 `@part1`
 - l'assignation ou l'association peut se faire de deux façon :
   - avec les signes : <-
-  - avec le signe : =
+  - avec le signe: =
 - les espace de part et d'autre du(des) symbole(s) d'assignations sont optionnels mais contribuent à la lisibilité
 
 

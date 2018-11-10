@@ -50,10 +50,43 @@ Rappelez vous : une lettre, uniquement des lettres, des chiffres, et les caracte
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise
-key: abbda5c038
-xp: 50
+type: NormalExercise
+key: fb10cc4405
+xp: 100
 ```
 
-`@projector_key`
-927e001e97ce071fe226dfdbcaf18720
+Exécuter la première ligne :
+```{r, eval=TRUE}
+monObjetNum <- 122
+```
+
+rappel : cliquez sur la ligne et rajouter la valuer puis tapez entrée en maintenant cmd enfoncé
+ou retapez la ligne dans la console (plus long et risque d'erreur)
+
+
+`@instructions`
+# Code à modifier ci-dessous :
+monObjetNum <-
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+monObjetNum <-
+```
+
+`@solution`
+```{r}
+monObjetNum <- 122
+```
+
+`@sct`
+```{r}
+
+```

@@ -62,6 +62,29 @@ La syntaxe le mot associé à l'objet doit respecter certaines règles
 
 
 ---
+## L'assignation
+
+```yaml
+type: "TwoRows"
+key: "8ec911261c"
+```
+
+`@part1`
+- l'assignation ou l'association peut se faire de deux façon :
+  - avec les signes : <-
+  - avec le signe : =
+- les espace de part et d'autre du(des) symbole(s) d'assignations sont optionnels mais contribuent à la lisibilité
+
+
+`@part2`
+
+
+
+`@script`
+
+
+
+---
 ## Qu'est qu'un objet pour R ?
 
 

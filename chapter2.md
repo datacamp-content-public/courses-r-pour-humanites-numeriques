@@ -3,7 +3,7 @@ title: 'Les Objets'
 description: 'Ce chapitre explique le concept fondamental de l''objet dans R'
 ---
 
-## Insert exercise title here
+## Le concept d'objet
 
 ```yaml
 type: VideoExercise
@@ -16,7 +16,7 @@ xp: 50
 
 ---
 
-## QUESTION
+## Exercice sur le nom de l'objet
 
 ```yaml
 type: PureMultipleChoiceExercise
@@ -44,3 +44,16 @@ Rappelez vous : une lettre, uniquement des lettres, des chiffres, et les caracte
 4. le nom d'objet ne doit pas commencer par un chiffre
 5. l'apostrophe ne peut pas faire parti du nom de l'objet
 6. Oui le point est autorisé
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: abbda5c038
+xp: 50
+```
+
+`@projector_key`
+927e001e97ce071fe226dfdbcaf18720

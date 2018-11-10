@@ -26,23 +26,21 @@ xp: 50
 
 Parmi les mots suivants lesquels sont des mots possibles pour un objet ?
 
-1. monObjet
-2. mon objet
-3. mon_objet
-4. 1objet
-5. l'objet
-6. l.objet
-
-
 `@hint`
 Rappelez vous : une lettre, uniquement des lettres, des chiffres, et les caracteres "_", "-" et "."
 
 `@possible_answers`
-[1. monObjet]
+1. [monObjet]
 2. mon objet
-[3. mon_objet]
+3. [mon_objet]
 4. 1objet
 5. l'objet
-[6. l.objet]
+6. [l.objet]
 
 `@feedback`
+1. Oui c'est correct
+2. NON il ne faut pas d'espaces
+3. Oui le trait du bas est autorisé
+4. le nom d'objet ne doit pas commencer par un chiffre
+5. l'apostrophe ne peut pas faire parti du nom de l'objet
+6. Oui le point est autorisé

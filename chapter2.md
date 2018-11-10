@@ -16,7 +16,7 @@ xp: 50
 
 ---
 
-## Insert exercise title here
+## QUESTION
 
 ```yaml
 type: PureMultipleChoiceExercise
@@ -35,9 +35,14 @@ Parmi les mots suivants lesquels sont des mots possibles pour un objet ?
 
 
 `@hint`
-
+Rappelez vous : une lettre, uniquement des lettres, des chiffres, et les caracteres "_", "-" et "."
 
 `@possible_answers`
-
+[1. monObjet]
+2. mon objet
+[3. mon_objet]
+4. 1objet
+5. l'objet
+[6. l.objet]
 
 `@feedback`

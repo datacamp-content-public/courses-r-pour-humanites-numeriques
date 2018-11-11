@@ -63,7 +63,6 @@ monObjetNum <- 122
 rappel : cliquez sur la ligne et rajouter la valuer puis tapez entrée en maintenant cmd enfoncé
 ou retapez la ligne dans la console (plus long et risque d'erreur)
 
-
 `@instructions`
 # Code à modifier ci-dessous :
 monObjetNum <-
